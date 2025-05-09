@@ -1,0 +1,22 @@
+{
+  "name": "vanillagrid",
+  "version": "2.0.0",
+  "description": "Modern CSS Framework with Flexbox and Grid",
+  "main": "dist/vanillagrid.css",
+  "scripts": {
+    "build": "sass src/scss/vanillagrid.scss dist/vanillagrid.css",
+    "watch": "sass --watch src/scss/vanillagrid.scss dist/vanillagrid.css"
+  },
+  "keywords": [
+    "css",
+    "framework",
+    "grid",
+    "flexbox",
+    "responsive"
+  ],
+  "author": "Volkan Ölmez",
+  "license": "MIT",
+  "devDependencies": {
+    "sass": "^1.69.5"
+  }
+} 
